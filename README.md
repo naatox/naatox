@@ -2,7 +2,7 @@
 🎓 Computer Engineering Student | 🌐 Web Developer | 📊 Tech Enthusiast  
 
 ## About Me  
-I am an 8th-semester Computer Engineering student at Universidad Católica del Norte. Passionate about developing web solutions, I enjoy creating efficient and scalable systems. My journey involves working on projects ranging from inventory management to academic progress tracking, always with a focus on improving processes and user experience.  
+I am an 9th-semester Computer Engineering student at Universidad Católica del Norte. Passionate about developing web solutions, I enjoy creating efficient and scalable systems. My journey involves working on projects ranging from inventory management to academic progress tracking, always with a focus on improving processes and user experience.  
 
 🌱 **I’m currently learning...**  
 - Node.js with Express  
@@ -18,7 +18,7 @@ Anything tech-related! I'm always happy to share what I know and learn something
 
 Outside of tech, 🎮 I enjoy playing video gamesa and 🎵 listening to music.
 
-📫 **Reach out to me at:** rmoralescontact@gmail.com | renato.morales@alumnos.ucn.cl
+📫 **Reach out to me at:** rmoralesconstancio@gmail.com | renato.morales@alumnos.ucn.cl
 
 ---
 
