@@ -1,5 +1,5 @@
 # Hi, I'm Renato Morales 👋
-🎓 **Computer Engineer** | 🌐 Web Developer | 🤖 RAG & ETL Practitioner
+🎓 **Software & Data Engineer** | 🤖 RAG & ETL Practitioner
 
 ## About Me
 I’m a **Computer Engineer graduated from Universidad Católica del Norte**, with experience designing and building **enterprise-grade systems**, especially **chatbots backed by ETL pipelines and RAG architectures**.
